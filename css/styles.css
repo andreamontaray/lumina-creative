@@ -198,6 +198,10 @@ img {
   margin: 0.2rem;
 }
 
+.footer a:hover {
+  color: #555;
+}
+
 /* Services */
 .services {
   padding: 3rem 0 4rem;
