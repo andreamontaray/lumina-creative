@@ -53,6 +53,7 @@ img {
   font-family: inherit;
   font-size: inherit;
   cursor: pointer;
+  transition: all 0.3s ease-in-out;
 }
 
 .btn:hover {
@@ -113,6 +114,7 @@ img {
 
 .header .main-menu a {
   padding: 0.5rem 1rem;
+  transition: all 0.3s ease;
 }
 
 .header .main-menu a:hover {
@@ -148,6 +150,7 @@ img {
 
 .gallery-item {
   border-radius: 10px;
+  transition: all 0.5s ease-in-out;
 }
 
 .gallery-item img {
@@ -166,7 +169,7 @@ img {
   grid-row: span 2;
 }
 .gallery-item:hover {
-  opacity: 0.9;
+  opacity: 0.8;
 }
 
 /* Footer */
@@ -222,6 +225,11 @@ img {
 
 .team img {
   border-radius: 10px;
+  transition: all 0.3s ease-in-out;
+}
+
+.team img:hover {
+  transform: scale(1.05);
 }
 
 /* Contact */
