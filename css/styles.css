@@ -139,6 +139,7 @@ img {
   font-weight: normal;
 }
 
+/* Gallery */
 .gallery-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -183,7 +184,6 @@ img {
 
 .footer img {
   width: 120px;
-  /* height: 35px; */
 }
 
 .footer h4 {
