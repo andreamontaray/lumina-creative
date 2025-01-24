@@ -20,7 +20,7 @@ Lumina Creative is a services-based website offering photography, web design, an
 - Lightbox2
 - Netlify
 
-## Inpiration and Learning
+## Inspiration and Learning
 
 Lumina Creative was created as a project for the "Modern HTML & CSS from the Beginning (2024 Revamp)" course by Brad Traversy. The course provided a solid foundation in HTML, CSS, and responsive design principles.
 
